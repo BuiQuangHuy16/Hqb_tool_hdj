@@ -1,0 +1,61 @@
+D:\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.dll
+D:\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.pdb
+D:\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CoreCompileInputs.cache
+D:\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
+D:\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb
+D:\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.dll
+D:\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.pdb
+D:\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CoreCompileInputs.cache
+D:\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
+D:\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb
+C:\Users\PC\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.dll
+C:\Users\PC\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.pdb
+C:\Users\PC\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CoreCompileInputs.cache
+C:\Users\PC\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
+C:\Users\PC\Dropbox\HQB\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb
+D:\CHO DUYET_D\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CoreCompileInputs.cache
+D:\CHO DUYET_D\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
+D:\CHO DUYET_D\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb
+D:\CHO DUYET_D\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.dll
+D:\CHO DUYET_D\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.pdb
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.dll
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.pdb
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignColors.dll
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignColors.pdb
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\Lib\AppResource.baml
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\CreateElementFromAutoCad\CreateColumnFromAutoCad\CreateColumnFromAutoCadWindow.g.cs
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool_MarkupCompile.cache
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool_MarkupCompile.lref
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\CreateElementFromAutoCad\CreateColumnFromAutoCad\CreateColumnFromAutoCadWindow.baml
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.g.resources
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CoreCompileInputs.cache
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CopyComplete
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
+D:\CHO DUYET_D\11.18.22\06.HQB_TOOL\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.dll
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.pdb
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignColors.dll
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignColors.pdb
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csprojAssemblyReference.cache
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\Lib\AppResource.baml
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\CreateElementFromAutoCad\CreateColumnFromAutoCad\CreateColumnFromAutoCadWindow.g.cs
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool_MarkupCompile.cache
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool_MarkupCompile.lref
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\CreateElementFromAutoCad\CreateColumnFromAutoCad\CreateColumnFromAutoCadWindow.baml
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.g.resources
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CoreCompileInputs.cache
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CopyComplete
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
+D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>HQB_Tool</Name>
+    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2019\dll\HQB_Tool.dll</Assembly>
+    <AddInId>83C6479F-0B79-4312-95A1-F4E7356A8544</AddInId>
+    <FullClassName>HqbTool.RibbonApp</FullClassName>
+    <VendorId>https://huybq220494@gmail.com</VendorId>
+    <VendorDescription>Tool for Revit</VendorDescription>
+  </AddIn>
+</RevitAddIns>
