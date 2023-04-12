@@ -59,3 +59,23 @@ D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj
 D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CopyComplete
 D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
 D:\CHO DUYET_D\11.18.22\HQB_TOOL_HDJ\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.dll
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\HQB_Tool.pdb
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignColors.dll
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\Lib\AppResource.baml
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\CreateElementFromAutoCad\CreateColumnFromAutoCad\CreateColumnFromAutoCadWindow.g.cs
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool_MarkupCompile.cache
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool_MarkupCompile.lref
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\CreateElementFromAutoCad\CreateColumnFromAutoCad\CreateColumnFromAutoCadWindow.baml
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.g.resources
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CopyComplete
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
+C:\Users\PC\Desktop\TOOL_HQB\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb
