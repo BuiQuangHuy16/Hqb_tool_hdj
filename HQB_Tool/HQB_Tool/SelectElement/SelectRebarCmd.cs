@@ -29,13 +29,14 @@ namespace HqbTool
 
             // Khi chạy bằng Add-in Manager thì comment 2 dòng bên dưới để tránh lỗi
             // When running with Add-in Manager, comment the 2 lines below to avoid errors
-            string dllFolder = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
-            AssemblyLoader.LoadAllRibbonAssemblies(dllFolder);
+            //string dllFolder = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
+            //AssemblyLoader.LoadAllRibbonAssemblies(dllFolder);
 
 
             // pick va lay ve element da chon
-            FilterRebar filterRebar = new FilterRebar();
-            Reference reference = uidoc.Selection.PickObject(ObjectType.Element, filterRebar, "Please select Rebar");
+            //FilterRebar filterRebar = new FilterRebar();
+            //Reference reference = uidoc.Selection.PickObject(ObjectType.Element, filterRebar, "Please select Rebar");
+            Reference reference = uidoc.Selection.PickObject(ObjectType.Element);
             if (reference == null)
             {
                 return Result.Succeeded;

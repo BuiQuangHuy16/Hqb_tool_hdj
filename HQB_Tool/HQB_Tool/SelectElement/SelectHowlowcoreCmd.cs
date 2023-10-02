@@ -53,11 +53,14 @@ namespace HqbTool
 
                 // lay ve parameter ControlMark va ControlMark cua rebar
                 Parameter widthParameter = element.LookupParameter("DIM_WIDTH");
+
                 ElementId elementId = widthParameter.Id;
 
-                string ValueWidth = widthParameter.AsValueString();
+                //string ValueWidth = widthParameter.AsValueString().ToString();
 
+                string ValueWidth = widthParameter.AsDouble().ToString();
 
+                
                 FilterRule rule1 = ParameterFilterRuleFactory.CreateEqualsRule(elementId, ValueWidth, true);
                 ElementParameterFilter filterRule1 = new ElementParameterFilter(rule1);
 

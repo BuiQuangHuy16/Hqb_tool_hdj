@@ -53,8 +53,10 @@ namespace HqbTool
 
                 FilterRule rule1 =
                     ParameterFilterRuleFactory.CreateEqualsRule(markId, valueControlMark, true);
+
                 ElementParameterFilter filterRule1 =
                     new ElementParameterFilter(rule1);
+
                 filters.Add(filterRule1);
             }
             LogicalOrFilter orFilter = new LogicalOrFilter(filters);
