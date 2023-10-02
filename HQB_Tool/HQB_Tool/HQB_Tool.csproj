@@ -83,6 +83,7 @@
     <Compile Include="Lib\About.cs" />
     <Compile Include="Lib\DeleteWarningSuper.cs" />
     <Compile Include="Lib\FamilySymbolUtils.cs" />
+    <Compile Include="Lib\FilterFraming.cs" />
     <Compile Include="Lib\FilterRebar_vn.cs" />
     <Compile Include="Lib\FilterRebar.cs" />
     <Compile Include="Lib\FilterGrid.cs" />
@@ -97,6 +98,7 @@
     <Compile Include="Dimention\DimGridCmd.cs" />
     <Compile Include="SelectElement\SelectRebarByHostCategoryCmd.cs" />
     <Compile Include="SelectElement\SelectRebarByLengthCmd.cs" />
+    <Compile Include="SelectElement\SelectHowlowcoreCmd.cs" />
     <Compile Include="SelectElement\SelectRebarsByLengthCmd.cs" />
     <Compile Include="SelectElement\SelectRebarsCmd.cs" />
     <Compile Include="SelectElement\SelectRebarCmd.cs" />
