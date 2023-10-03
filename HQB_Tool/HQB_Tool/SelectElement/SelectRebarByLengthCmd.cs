@@ -54,7 +54,9 @@ namespace HqbTool
                 Parameter lenhth = element.LookupParameter("DIM_LENGTH");
                 ElementId elementId = lenhth.Id;
 
-                string ValueLength = lenhth.AsString();
+                string ValueLength = lenhth.AsValueString().ToString();
+
+
 
 
                 FilterRule rule1 = ParameterFilterRuleFactory.CreateEqualsRule(elementId, ValueLength, true);

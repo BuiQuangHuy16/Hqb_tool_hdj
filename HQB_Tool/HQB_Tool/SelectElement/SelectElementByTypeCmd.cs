@@ -52,7 +52,6 @@ namespace HqbTool
                 ElementParameterFilter filterRule1 = new ElementParameterFilter(rule1);
 
 
-
                 // lay ve parameter Tpye cua cot
                 Parameter type = element.LookupParameter("Type");
                 ElementId elementId = type.Id;

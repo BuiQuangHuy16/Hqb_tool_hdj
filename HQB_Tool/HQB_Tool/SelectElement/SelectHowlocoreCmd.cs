@@ -17,7 +17,7 @@ using Application = Autodesk.Revit.ApplicationServices.Application;
 namespace HqbTool
 {
     [Transaction(TransactionMode.Manual)]
-    public class SelectHowlowcoreCmd : IExternalCommand
+    public class SelectHowlocoreCmd : IExternalCommand
     {
         public Result Execute(ExternalCommandData commandData,
             ref string message, ElementSet elements)
@@ -34,9 +34,8 @@ namespace HqbTool
 
 
             // pick va lay ve element da chon
-            //FilterFraming filterFraming = new FilterFraming();
-            //Reference reference = uidoc.Selection.PickObject(ObjectType.Element, filterFraming, "Please select Framing");
-            Reference reference = uidoc.Selection.PickObject(ObjectType.Element);
+            FilterRebar filterRebar = new FilterRebar();
+            Reference reference = uidoc.Selection.PickObject(ObjectType.Element, "Please select element");
             if (reference == null)
             {
                 return Result.Succeeded;
@@ -45,24 +44,25 @@ namespace HqbTool
             {
                 Element element = doc.GetElement(reference);
 
-                // tao CategroryFilter
+                //Parameter category = element.LookupParameter("Category");
+                //ElementId categoryId = category.Id;
+                //string categoryName = category.AsValueString();
 
-                ElementCategoryFilter StructuralFramingFilter =
-                    new ElementCategoryFilter(BuiltInCategory.OST_StructuralFraming);
+                //FilterRule rule1 = ParameterFilterRuleFactory.CreateEqualsRule(categoryId, categoryName, true);
+                //ElementParameterFilter filterRule1 = new ElementParameterFilter(rule1);
 
 
-                // lay ve parameter ControlMark va ControlMark cua rebar
-                Parameter widthParameter = element.LookupParameter("DIM_WIDTH");
 
-                ElementId elementId = widthParameter.Id;
+                // lay ve parameter Tpye cua cot
+                Parameter type = element.LookupParameter("DIM_WIDTH");
+                ElementId elementId = type.Id;
 
-                //string ValueWidth = widthParameter.AsValueString().ToString();
+                //string ValueType = type.AsString();
+                double s = type.AsDouble();
+                string ValueType = Convert.ToString(s);
 
-                string ValueWidth = widthParameter.AsDouble().ToString();
-
-                
-                FilterRule rule1 = ParameterFilterRuleFactory.CreateEqualsRule(elementId, ValueWidth, true);
-                ElementParameterFilter filterRule1 = new ElementParameterFilter(rule1);
+                FilterRule rule2 = ParameterFilterRuleFactory.CreateEqualsRule(elementId, ValueType, true);
+                ElementParameterFilter filterRule2 = new ElementParameterFilter(rule2);
 
 
 
@@ -72,8 +72,14 @@ namespace HqbTool
 
                 // tao list Filter
                 IList<ElementFilter> filters = new List<ElementFilter>();
-                filters.Add(StructuralFramingFilter);
-                filters.Add(filterRule1);
+                //filters.Add(filterRule1);
+                filters.Add(filterRule2);
+
+
+                //LogicalOrFilter logicalOrFilter = new LogicalOrFilter(filters);
+
+
+                //LogicalOrFilter orFilterFilter = new LogicalOrFilter(filters);
 
                 LogicalAndFilter andFilter = new LogicalAndFilter(filters);
 

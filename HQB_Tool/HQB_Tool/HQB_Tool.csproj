@@ -94,11 +94,11 @@
     <Compile Include="NumberingSheet\SheetNumberingCmd.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SelectElement\SelectEbedsCmd.cs" />
+    <Compile Include="SelectElement\SelectHowlocoreCmd.cs" />
     <Compile Include="SelectElement\SelectElementByTypeCmd.cs" />
     <Compile Include="Dimention\DimGridCmd.cs" />
     <Compile Include="SelectElement\SelectRebarByHostCategoryCmd.cs" />
     <Compile Include="SelectElement\SelectRebarByLengthCmd.cs" />
-    <Compile Include="SelectElement\SelectHowlowcoreCmd.cs" />
     <Compile Include="SelectElement\SelectRebarsByLengthCmd.cs" />
     <Compile Include="SelectElement\SelectRebarsCmd.cs" />
     <Compile Include="SelectElement\SelectRebarCmd.cs" />

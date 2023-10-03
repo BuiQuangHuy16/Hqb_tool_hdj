@@ -119,3 +119,4 @@ C:\Users\PC\Desktop\Hqb_tool_hdj\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.Cor
 C:\Users\PC\Desktop\Hqb_tool_hdj\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.CopyComplete
 C:\Users\PC\Desktop\Hqb_tool_hdj\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.dll
 C:\Users\PC\Desktop\Hqb_tool_hdj\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.pdb
+C:\Users\PC\Desktop\Hqb_tool_hdj\HQB_Tool\HQB_Tool\obj\Debug\HQB_Tool.csproj.AssemblyReference.cache
