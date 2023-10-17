@@ -51,15 +51,17 @@ namespace HqbTool
 
 
                 // lay ve parameter ControlMark va ControlMark cua rebar
-                Parameter lenhth = element.LookupParameter("DIM_LENGTH");
-                ElementId elementId = lenhth.Id;
+                Parameter length = element.LookupParameter("DIM_LENGTH");
+                ElementId elementId = length.Id;
 
-                string ValueLength = lenhth.AsValueString().ToString();
-
-
+                double precision = 10e-5;
 
 
-                FilterRule rule1 = ParameterFilterRuleFactory.CreateEqualsRule(elementId, ValueLength, true);
+                double ValueLength = length.AsDouble();
+
+
+
+                FilterRule rule1 = ParameterFilterRuleFactory.CreateEqualsRule(elementId, ValueLength, precision);
                 ElementParameterFilter filterRule1 = new ElementParameterFilter(rule1);
 
 

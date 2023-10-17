@@ -44,24 +44,17 @@ namespace HqbTool
             {
                 Element element = doc.GetElement(reference);
 
-                //Parameter category = element.LookupParameter("Category");
-                //ElementId categoryId = category.Id;
-                //string categoryName = category.AsValueString();
-
-                //FilterRule rule1 = ParameterFilterRuleFactory.CreateEqualsRule(categoryId, categoryName, true);
-                //ElementParameterFilter filterRule1 = new ElementParameterFilter(rule1);
-
-
+               
 
                 // lay ve parameter Tpye cua cot
                 Parameter type = element.LookupParameter("DIM_WIDTH");
                 ElementId elementId = type.Id;
 
-                //string ValueType = type.AsString();
-                double s = type.AsDouble();
-                string ValueType = Convert.ToString(s);
+                double precision = 10e-5;
 
-                FilterRule rule2 = ParameterFilterRuleFactory.CreateEqualsRule(elementId, ValueType, true);
+                double s = type.AsDouble();
+                
+                FilterRule rule2 = ParameterFilterRuleFactory.CreateEqualsRule(elementId, s, precision);
                 ElementParameterFilter filterRule2 = new ElementParameterFilter(rule2);
 
 
