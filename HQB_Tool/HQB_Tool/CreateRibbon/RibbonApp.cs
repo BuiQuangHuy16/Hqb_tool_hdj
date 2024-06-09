@@ -72,6 +72,24 @@ namespace HqbTool
                     "Pick Rebars");
             splitButton1.AddPushButton(pushButtonData2);
 
+            PushButtonData pushButtonData7
+                = ribbonUtils.CreatePushButtonData("SelectRebarByLengthCmd",
+                    "Select Rebars\nBy Length", "HQB_Tool.dll",
+                    "HqbTool.SelectRebarByLengthCmd",
+                    "HQB.ico",
+                    "Pick Rebar");
+            splitButton1.AddPushButton(pushButtonData7);
+
+            PushButtonData pushButtonData8
+                = ribbonUtils.CreatePushButtonData("SelectRebarByHostCategoryCmd",
+                    "Select Rebars\nBy ByHostCategory", "HQB_Tool.dll",
+                    "HqbTool.SelectRebarByHostCategoryCmd",
+                    "HQB.ico",
+                    "Pick Rebar");
+            splitButton1.AddPushButton(pushButtonData8);
+
+
+
             SplitButton splitButton2 = ribbonUtils.CreateSplitButton(panel1,
                 "SelectEmbed",
                 "Split\r\nButton",
